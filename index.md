@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Projektbeschreibung
 
-You can use the [editor on GitHub](https://github.com/seasite-project/seasite-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Das Forschungsprojekt SeASiTe stellt sich die Aufgabe der systematischen Untersuchung von Selbstadaptionstechniken für zeitschrittbasierte Simulationsanwendungen auf heterogenen HPC-Systemen mit dem Ziel des Entwurfs und der Bereitstellung eines Prototyps eines Werkzeugkastens, mit dessen Hilfe Programmierer ihre Anwendung mit effizienten Selbstadaptionstechniken ausstatten können.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Der Ansatz beinhaltet die Selbstadaption hinsichtlich der Systemparameter (z.B. Threadanzahl oder Frequenz bei DVFS-Prozessoren), aber auch hinsichtlich möglicher Programmtransformationen und relevanter Programmparameter. Die Optimierung der Programmausführung für mehrerer nicht-funktionaler Ziele (z.B. Laufzeit oder Energieverbrauch) soll auf einer Performance-Modellierung zur Eingrenzung des Suchraums aufbauen.
 
-### Markdown
+Die Zusammensetzung des Konsortiums ermöglicht die Entwicklung und Realisierung dieser Zielstellung. Als Demonstratoren werden die weit verbreiteten Stencil-Codes, zeitschrittbasierte Löser für gewöhnliche Differentialgleichungssysteme und Löser für Partikelsimulationen genutzt. Die entwickelte Autotuning-Software sowie die Bibliothek der selbstadaptiven zeitschrittbasierten Löser werden nach Projektende als Open-Source-Software einer breiten Gruppe von Anwendern zur Verfügung stehen. Die nachhaltige Verbreitung der entwickelten Methoden und Software werden durch ein Ausbildungskonzept, Fortbildungsworkshops und -seminare sichergestellt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projektbeteiligte
 
-```markdown
-Syntax highlighted code block
+Professur Angewandte Informatik II, Universität Bayreuth
 
-# Header 1
-## Header 2
-### Header 3
+Professur Praktische Informatik, TU Chemnitz
 
-- Bulleted
-- List
+Professur für Höchstleistungsrechnen, Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-1. Numbered
-2. List
+MEGWARE Computer Vertrieb und Service GmbH, Chemnitz (assoziierter Partner)
 
-**Bold** and _Italic_ and `Code` text
+### Publikationen
 
-[Link](url) and ![Image](src)
-```
+### Gefördert von
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seasite-project/seasite-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Funding BMBF](https://raw.githubusercontent.com/wiki/RRZE-HPC/likwid/images/BMBF.png)
