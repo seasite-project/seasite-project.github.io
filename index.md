@@ -1,6 +1,8 @@
 [English](index_en.md) [Deutsch](index.md)
 
-### Projektbeschreibung
+# Selbstadaption für zeitschrittbasierte Simulationstechniken auf heterogenen HPC-Systemen
+
+## Projektbeschreibung
 
 Das Forschungsprojekt SeASiTe stellt sich der Aufgabe, eine systematische
 Untersuchung von Selbstadaption für zeitschrittbasierte Simulationstechniken
@@ -18,14 +20,14 @@ zur Eingrenzung des Suchraums effizienter Programmvarianten aufbauen.
 Anwendungsunabhängige Methoden und Strategien zur Selbstadaption sollen in
 einem Autotuning-Navigator gekapselt werden.
 
-### Projektbeteiligte
+## Projektbeteiligte
 
 * [Professur Angewandte Informatik II](http://www.ai2.uni-bayreuth.de), Universität Bayreuth
 * [Professur Praktische Informatik](https://www.tu-chemnitz.de/informatik/PI/), TU Chemnitz
 * [Professur für Höchstleistungsrechnen](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [MEGWARE Computer Vertrieb und Service GmbH](http://www.megware.com), Chemnitz (assoziierter Partner)
 
-### Projektinformationen
+## Projektinformationen
 
 Das Verbundprojekt "SeASiTe" ist ein Forschungsvorhaben auf dem Gebiet
 ["Grundlagenorientierte Forschung für HPC-Software im Hoch- und
@@ -33,10 +35,10 @@ Höchstleistungsrechnen"](https://www.bmbf.de/foerderungen/bekanntmachung.php?B=
 und wird im Rahmen des Förderprogramms "IKT 2020 – Forschung für Innovationen"
 vom Bundesministerium für Bildung und Forschung (BMBF) gefördert.
 
-### Laufzeit
+## Laufzeit
 
 01.01.2017 – 31.12.2019 
 
-### Gefördert von
+## Gefördert von
 
 ![Funding BMBF](https://raw.githubusercontent.com/wiki/RRZE-HPC/likwid/images/BMBF.png)
