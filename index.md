@@ -9,16 +9,13 @@ Untersuchung von Selbstadaption für zeitschrittbasierte Simulationstechniken
 auf heterogenen HPC-Systemen durchzuführen. Das Ziel ist der Entwurf und die
 Bereitstellung des Prototypen eines Werkzeugkastens, mit dessen Hilfe
 Programmierer ihre Anwendungen mit effizienten Selbstadaptionstechniken
-ausstatten können.
-
-Der Ansatz beinhaltet die Selbstadaption sowohl hinsichtlich relevanter
-System- und Programmparameter als auch möglicher Programmtransformationen. Die
-Optimierung der Programmausführung für mehrere nicht-funktionale Ziele
-(z.B. Laufzeit oder Energieverbrauch) soll auf einer Performance-Modellierung
-zur Eingrenzung des Suchraums effizienter Programmvarianten aufbauen.
-
-Anwendungsunabhängige Methoden und Strategien zur Selbstadaption sollen in
-einem Autotuning-Navigator gekapselt werden.
+ausstatten können. Der Ansatz beinhaltet die Selbstadaption sowohl
+hinsichtlich relevanter System- und Programmparameter als auch möglicher
+Programmtransformationen. Die Optimierung der Programmausführung für mehrere
+nicht-funktionale Ziele (z.B. Laufzeit oder Energieverbrauch) soll auf einer
+Performance-Modellierung zur Eingrenzung des Suchraums effizienter
+Programmvarianten aufbauen. Anwendungsunabhängige Methoden und Strategien zur
+Selbstadaption sollen in einem Autotuning-Navigator gekapselt werden.
 
 ## Projektbeteiligte
 
