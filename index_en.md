@@ -20,10 +20,10 @@ Autotuning Navigator.
 
 ## Project partners
 
-* [Professur Angewandte Informatik II](http://www.ai2.uni-bayreuth.de/en/), Universität Bayreuth
-* [Professur Praktische Informatik](https://www.tu-chemnitz.de/informatik/PI/index.php.en), TU Chemnitz
-* [Professur für Höchstleistungsrechnen](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
-* [MEGWARE Computer Vertrieb und Service GmbH](http://www.megware.com/en.html), Chemnitz (assoziierter Partner)
+* [Chair for Applied Computer Science II, Parallel and Distributed Systems,](http://www.ai2.uni-bayreuth.de/en/), Universität Bayreuth
+* [Professorship Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/index.php.en), TU Chemnitz
+* [Professorship High Performance Computing](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
+* [MEGWARE Computer Vertrieb und Service GmbH](http://www.megware.com/en.html), Chemnitz (associated partner)
 
 ## Project information
 
@@ -43,11 +43,12 @@ the Federal Ministry of Education and Research (BMBF).
 
 ## Contact
 
-PD Dr. Matthias Korch  
+PD Dr. Matthias Korch
+
 Applied Computer Science II  
 University of Bayreuth  
 95440 Bayreuth  
 Germany
 
-E-Mail: [korch@uni-bayreuth.de](mailto:korch@uni-bayreuth.de)  
+E-mail: [korch@uni-bayreuth.de](mailto:korch@uni-bayreuth.de)  
 Phone: +49 921 55 7705

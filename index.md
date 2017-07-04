@@ -19,7 +19,7 @@ Selbstadaption sollen in einem Autotuning-Navigator gekapselt werden.
 
 ## Projektbeteiligte
 
-* [Professur Angewandte Informatik II](http://www.ai2.uni-bayreuth.de), Universität Bayreuth
+* [Professur Angewandte Informatik II, Parallele und verteilte Systeme](http://www.ai2.uni-bayreuth.de), Universität Bayreuth
 * [Professur Praktische Informatik](https://www.tu-chemnitz.de/informatik/PI/), TU Chemnitz
 * [Professur für Höchstleistungsrechnen](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [MEGWARE Computer Vertrieb und Service GmbH](http://www.megware.com), Chemnitz (assoziierter Partner)
