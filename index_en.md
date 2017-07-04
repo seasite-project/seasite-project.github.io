@@ -40,3 +40,14 @@ the Federal Ministry of Education and Research (BMBF).
 ## Funded by
 
 ![Funding BMBF](https://raw.githubusercontent.com/wiki/RRZE-HPC/likwid/images/BMBF.png)
+
+## Contact
+
+PD Dr. Matthias Korch  
+Applied Computer Science II  
+University of Bayreuth  
+95440 Bayreuth  
+Germany
+
+E-Mail: [korch@uni-bayreuth.de](mailto:korch@uni-bayreuth.de)  
+Phone: +49 921 55 7705

@@ -39,3 +39,15 @@ vom Bundesministerium für Bildung und Forschung (BMBF) gefördert.
 ## Gefördert von
 
 ![Funding BMBF](https://raw.githubusercontent.com/wiki/RRZE-HPC/likwid/images/BMBF.png)
+
+## Kontakt
+
+PD Dr. Matthias Korch
+
+Angewandte Informatik II  
+Universität Bayreuth  
+95440 Bayreuth  
+Deutschland
+
+E-Mail: [korch@uni-bayreuth.de](mailto:korch@uni-bayreuth.de)  
+Tel.: +49 921 55 7705
