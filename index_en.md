@@ -20,7 +20,7 @@ Autotuning Navigator.
 
 ## Project partners
 
-* [Chair for Applied Computer Science II, Parallel and Distributed Systems,](http://www.ai2.uni-bayreuth.de/en/), Universität Bayreuth
+* [Chair for Applied Computer Science II, Parallel and Distributed Systems](http://www.ai2.uni-bayreuth.de/en/), Universität Bayreuth
 * [Professorship Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/index.php.en), TU Chemnitz
 * [Professorship High Performance Computing](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [MEGWARE Computer Vertrieb und Service GmbH](http://www.megware.com/en.html), Chemnitz (associated partner)
