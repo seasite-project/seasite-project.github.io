@@ -1,19 +1,39 @@
 ### Projektbeschreibung
 
-Das Forschungsprojekt SeASiTe stellt sich die Aufgabe der systematischen Untersuchung von Selbstadaptionstechniken für zeitschrittbasierte Simulationsanwendungen auf heterogenen HPC-Systemen mit dem Ziel des Entwurfs und der Bereitstellung eines Prototyps eines Werkzeugkastens, mit dessen Hilfe Programmierer ihre Anwendung mit effizienten Selbstadaptionstechniken ausstatten können.
+Das Forschungsprojekt SeASiTe stellt sich der Aufgabe, eine systematische
+Untersuchung von Selbstadaption für zeitschrittbasierte Simulationstechniken
+auf heterogenen HPC-Systemen durchzuführen. Das Ziel ist der Entwurf und die
+Bereitstellung des Prototypen eines Werkzeugkastens, mit dessen Hilfe
+Programmierer ihre Anwendungen mit effizienten Selbstadaptionstechniken
+ausstatten können.
 
-Der Ansatz beinhaltet die Selbstadaption hinsichtlich der Systemparameter (z.B. Threadanzahl oder Frequenz bei DVFS-Prozessoren), aber auch hinsichtlich möglicher Programmtransformationen und relevanter Programmparameter. Die Optimierung der Programmausführung für mehrerer nicht-funktionaler Ziele (z.B. Laufzeit oder Energieverbrauch) soll auf einer Performance-Modellierung zur Eingrenzung des Suchraums aufbauen.
+Der Ansatz beinhaltet die Selbstadaption sowohl hinsichtlich relevanter
+System- und Programmparameter als auch möglicher Programmtransformationen. Die
+Optimierung der Programmausführung für mehrere nicht-funktionale Ziele
+(z.B. Laufzeit oder Energieverbrauch) soll auf einer Performance-Modellierung
+zur Eingrenzung des Suchraums effizienter Programmvarianten aufbauen.
 
-Die Zusammensetzung des Konsortiums ermöglicht die Entwicklung und Realisierung dieser Zielstellung. Als Demonstratoren werden die weit verbreiteten Stencil-Codes, zeitschrittbasierte Löser für gewöhnliche Differentialgleichungssysteme und Löser für Partikelsimulationen genutzt. Die entwickelte Autotuning-Software sowie die Bibliothek der selbstadaptiven zeitschrittbasierten Löser werden nach Projektende als Open-Source-Software einer breiten Gruppe von Anwendern zur Verfügung stehen. Die nachhaltige Verbreitung der entwickelten Methoden und Software werden durch ein Ausbildungskonzept, Fortbildungsworkshops und -seminare sichergestellt.
+Anwendungsunabhängige Methoden und Strategien zur Selbstadaption sollen in
+einem Autotuning-Navigator gekapselt werden.
 
 ### Projektbeteiligte
 
-* Professur Angewandte Informatik II, Universität Bayreuth
-* Professur Praktische Informatik, TU Chemnitz
-* Professur für Höchstleistungsrechnen, Friedrich-Alexander-Universität Erlangen-Nürnberg
-* MEGWARE Computer Vertrieb und Service GmbH, Chemnitz (assoziierter Partner)
+* [Professur Angewandte Informatik II](http://www.ai2.uni-bayreuth.de), Universität Bayreuth
+* [Professur Praktische Informatik](https://www.tu-chemnitz.de/informatik/PI/), TU Chemnitz
+* [Professur für Höchstleistungsrechnen](http://www.hpc.informatik.uni-erlangen.de/), Friedrich-Alexander-Universität Erlangen-Nürnberg
+* [MEGWARE Computer Vertrieb und Service GmbH])http://www.megware.com), Chemnitz (assoziierter Partner)
 
-### Publikationen
+### Projektinformationen
+
+Das Verbundprojekt "SeASiTe" ist ein Forschungsvorhaben auf dem Gebiet
+["Grundlagenorientierte Forschung für HPC-Software im Hoch- und
+Höchstleistungsrechnen"](https://www.bmbf.de/foerderungen/bekanntmachung.php?B=1105)
+und wird im Rahmen des Förderprogramms "IKT 2020 – Forschung für Innovationen"
+vom Bundesministerium für Bildung und Forschung (BMBF) gefördert.
+
+### Laufzeit
+
+01.01.2017 – 31.12.2019 
 
 ### Gefördert von
 
