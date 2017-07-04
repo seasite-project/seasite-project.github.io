@@ -1,4 +1,4 @@
-Sprache: [Englisch](index_en.md) [Deutsch](index.md)
+_Sprache: [Englisch](index_en.md), [Deutsch](index.md)_
 
 # Selbstadaption für zeitschrittbasierte Simulationstechniken auf heterogenen HPC-Systemen
 

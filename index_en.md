@@ -1,4 +1,4 @@
-Language: [English](index_en.md) [German](index.md)
+_Language: [English](index_en.md), [German](index.md)_
 
 # Self-Adaptation of Time-step-based Simulation Techniques on Heterogeneous HPC Systems
 
