@@ -8,13 +8,10 @@ Die Zusammensetzung des Konsortiums ermöglicht die Entwicklung und Realisierung
 
 ### Projektbeteiligte
 
-Professur Angewandte Informatik II, Universität Bayreuth
-
-Professur Praktische Informatik, TU Chemnitz
-
-Professur für Höchstleistungsrechnen, Friedrich-Alexander-Universität Erlangen-Nürnberg
-
-MEGWARE Computer Vertrieb und Service GmbH, Chemnitz (assoziierter Partner)
+* Professur Angewandte Informatik II, Universität Bayreuth
+* Professur Praktische Informatik, TU Chemnitz
+* Professur für Höchstleistungsrechnen, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* MEGWARE Computer Vertrieb und Service GmbH, Chemnitz (assoziierter Partner)
 
 ### Publikationen
 
