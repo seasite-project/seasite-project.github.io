@@ -1,4 +1,4 @@
-# Impressum und Datenschutz
+# Impressum und Erklärung zur Datenverarbeitung
 
 Dies ist ein gemeinsamer Webauftritt der Zuwendungsempfänger des BMBF-Projekts SeASiTE.
 
