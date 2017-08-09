@@ -108,7 +108,7 @@ Martensstraße 1
 91058 Erlangen  
 Deutschland
 
-Tel.: +49 9131 85 28136  
+Tel.: +49 9131 85-28136  
 Fax:  +49 9131 302941  
 E-Mail: gerhard.wellein@rrze.uni-erlangen.de
 
