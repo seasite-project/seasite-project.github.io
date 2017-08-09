@@ -6,61 +6,75 @@ Dies ist ein gemeinsamer Webauftritt der Partner des BMBF-Projekts SeASiTE.
 
 ### Universität Bayreuth
 
-#### Vertreten durch
-
-Der Präsident der Universität Bayreuth  
-Herrn Professor Dr. Stefan Leible  
 Universitätsstraße 30  
-95447 Bayreuth  
+95447 Bayreuth 
 Deutschland
-
-Der Kanzler der Universität Bayreuth  
-Herrn Dr. Markus Zanner  
-Universitätsstraße 30  
-95447 Bayreuth  
-Deutschland
-
-#### Kontakt
 
 Tel.: +49 921 55-0  
 Fax:  +49 921 55-5290  
 E-Mail: info@uni-bayreuth.de
 
-#### Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz
+Die Universität Bayreuth ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
-DE 811 264 317
+Der Präsident der Universität Bayreuth  
+Prof. Dr. Stefan Leible  
+Universitätsstraße 30  
+95447 Bayreuth  
+Deutschland
 
-#### Aufsichtsbehörde
+Tel.: +49 921 55-5201  
+Fax:  +49 921 55-5213  
+E-Mail: praesident@uni-bayreuth.de
 
-Bayerisches Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst
+Der Kanzler der Universität Bayreuth  
+Dr. Markus Zanner  
+Universitätsstraße 30  
+95447 Bayreuth  
+Deutschland
+
+Tel.: +49 921 55-5211  
+Fax:  +49 921 55-5214  
+E-Mail: kanzler@uvw.uni-bayreuth.de
+
+Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 811 264 317
+
+Aufsichtsbehörde: Bayerisches Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst
 
 ### Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-#### Vertreten durch
-
-Der Präsident der Friedrich-Alexander-Universität Erlangen-Nürnberg  
-Prof. Dr. Joachim Hornegger  
-Schlossplatz 4
+Schlossplatz 4  
 91054 Erlangen  
 Deutschland
-
-#### Kontakt
 
 Tel.: +49 9131 85-0  
 Fax:  +49 9131 85-22131  
 E-Mail: poststelle@fau.de
 
-#### Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz
+Die Friedrich-Alexander-Universität Erlangen-Nürnberg ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
-DE 132507686
+Der Präsident der Friedrich-Alexander-Universität Erlangen-Nürnberg  
+Prof. Dr. Joachim Hornegger  
+Schlossplatz 4  
+91054 Erlangen  
+Deutschland
 
-#### Aufsichtsbehörde
+Tel.: +49 9131 85-26600  
+Fax:  +49 9131 85-22188  
+E-Mail: praesident@fau.de
 
-Bayerisches Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst
+Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 132507686
+
+Aufsichtsbehörde: Bayerisches Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst
 
 ### Technische Universität Chemnitz
 
-#### Vertreten durch
+Straße der Nationen 62  
+09111 Chemnitz  
+Deutschland
+
+Tel.: +49 371 531-0
+
+Die Technsiche Universität Chemnitz ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
 Der Rektor der Technischen Universität Chemnitz  
 Prof. Dr. Gerd Strohmeier  
@@ -68,23 +82,15 @@ Straße der Nationen 62
 09111 Chemnitz  
 Deutschland
 
-#### Kontakt
-
-Telefon: +49 371 531-10000  
-Telefax: +49 371 531-10009  
+Tel.: +49 371 531-10000  
+Fax: +49 371 531-10009  
 E-Mail: rektor@tu-chemnitz.de
 
-#### Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz
+Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 140857609
 
-DE 140857609
-
-#### Aufsichtsbehörde
-
-Sächsisches Staatsministerium für Wissenschaft und Kunst
+Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
 
 ## Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV
-
-### Universität Bayreuth
 
 PD Dr. Matthias Korch  
 Universität Bayreuth  
@@ -98,8 +104,6 @@ Tel.: +49 921 55-7705
 Fax:  +49 921 55-7702  
 E-Mail: korch@uni-bayreuth.de
 
-### Friedrich-Alexander-Universität Erlangen-Nürnberg
-
 Prof. Dr. Gerhard Wellein  
 Friedrich-Alexander-Universität Erlangen-Nürnberg  
 Technische Fakultät  
@@ -111,8 +115,6 @@ Deutschland
 Tel.: +49 9131 85-28136  
 Fax:  +49 9131 302941  
 E-Mail: gerhard.wellein@rrze.uni-erlangen.de
-
-### Technische Universität Chemnitz
 
 Prof. Dr. Gudula Rünger  
 Technische Universität Chemnitz  
