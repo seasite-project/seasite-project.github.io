@@ -10,8 +10,8 @@ Universitätsstraße 30
 95447 Bayreuth 
 Deutschland
 
-Tel.: +49 921 55-0  
-Fax:  +49 921 55-5290  
+Tel.: +49 921 55 0  
+Fax:  +49 921 55 5290  
 E-Mail: info@uni-bayreuth.de
 
 Die Universität Bayreuth ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
@@ -22,8 +22,8 @@ Universitätsstraße 30
 95447 Bayreuth  
 Deutschland
 
-Tel.: +49 921 55-5201  
-Fax:  +49 921 55-5213  
+Tel.: +49 921 55 5201  
+Fax:  +49 921 55 5213  
 E-Mail: praesident@uni-bayreuth.de
 
 Der Kanzler der Universität Bayreuth  
@@ -32,8 +32,8 @@ Universitätsstraße 30
 95447 Bayreuth  
 Deutschland
 
-Tel.: +49 921 55-5211  
-Fax:  +49 921 55-5214  
+Tel.: +49 921 55 5211  
+Fax:  +49 921 55 5214  
 E-Mail: kanzler@uvw.uni-bayreuth.de
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 811 264 317
@@ -46,8 +46,8 @@ Schlossplatz 4
 91054 Erlangen  
 Deutschland
 
-Tel.: +49 9131 85-0  
-Fax:  +49 9131 85-22131  
+Tel.: +49 9131 85 0  
+Fax:  +49 9131 85 22131  
 E-Mail: poststelle@fau.de
 
 Die Friedrich-Alexander-Universität Erlangen-Nürnberg ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
@@ -58,8 +58,8 @@ Schlossplatz 4
 91054 Erlangen  
 Deutschland
 
-Tel.: +49 9131 85-26600  
-Fax:  +49 9131 85-22188  
+Tel.: +49 9131 85 26600  
+Fax:  +49 9131 85 22188  
 E-Mail: praesident@fau.de
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 132507686
@@ -72,7 +72,7 @@ Straße der Nationen 62
 09111 Chemnitz  
 Deutschland
 
-Tel.: +49 371 531-0
+Tel.: +49 371 531 0
 
 Die Technsiche Universität Chemnitz ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
@@ -82,8 +82,8 @@ Straße der Nationen 62
 09111 Chemnitz  
 Deutschland
 
-Tel.: +49 371 531-10000  
-Fax: +49 371 531-10009  
+Tel.: +49 371 531 10000  
+Fax: +49 371 531 10009  
 E-Mail: rektor@tu-chemnitz.de
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 140857609
@@ -100,8 +100,8 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   95447 Bayreuth  
   Deutschland
   
-  Tel.: +49 921 55-7705  
-  Fax:  +49 921 55-7702  
+  Tel.: +49 921 55 7705  
+  Fax:  +49 921 55 7702  
   E-Mail: korch@uni-bayreuth.de
 * Prof. Dr. Gerhard Wellein  
   Friedrich-Alexander-Universität Erlangen-Nürnberg  
@@ -111,7 +111,7 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   91058 Erlangen  
   Deutschland
   
-  Tel.: +49 9131 85-28136  
+  Tel.: +49 9131 85 28136  
   Fax:  +49 9131 302941  
   E-Mail: gerhard.wellein@rrze.uni-erlangen.de
 * Prof. Dr. Gudula Rünger  
@@ -121,8 +121,8 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   09107 Chemnitz  
   Deutschland
   
-  Tel.: +49 371 531-25610  
-  Fax:  +49 371 531-25619  
+  Tel.: +49 371 531 25610  
+  Fax:  +49 371 531 25619  
   E-Mail: ruenger@informatik.tu-chemnitz.de
 
 ## Erklärung zur Erhebung und Verwendung personenbezogener Daten gemäß §13 TMG
