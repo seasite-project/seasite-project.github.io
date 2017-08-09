@@ -12,7 +12,7 @@ Deutschland
 
 Tel.: +49 921 55 0  
 Fax:  +49 921 55 5290  
-E-Mail: info@uni-bayreuth.de
+E-Mail: [info@uni-bayreuth.de](mailto:info@uni-bayreuth.de)
 
 Die Universität Bayreuth ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
@@ -24,7 +24,7 @@ Deutschland
 
 Tel.: +49 921 55 5201  
 Fax:  +49 921 55 5213  
-E-Mail: praesident@uni-bayreuth.de
+E-Mail: [praesident@uni-bayreuth.de](mailto:praesident@uni-bayreuth.de)
 
 Der Kanzler der Universität Bayreuth  
 Dr. Markus Zanner  
@@ -34,7 +34,7 @@ Deutschland
 
 Tel.: +49 921 55 5211  
 Fax:  +49 921 55 5214  
-E-Mail: kanzler@uvw.uni-bayreuth.de
+E-Mail: [kanzler@uvw.uni-bayreuth.de](mailto:kanzler@uvw.uni-bayreuth.de)
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 811 264 317
 
@@ -48,7 +48,7 @@ Deutschland
 
 Tel.: +49 9131 85 0  
 Fax:  +49 9131 85 22131  
-E-Mail: poststelle@fau.de
+E-Mail: [poststelle@fau.de](mailto:poststelle@fau.de)
 
 Die Friedrich-Alexander-Universität Erlangen-Nürnberg ist eine Körperschaft öffentlichen Rechts und wird juristisch vertreten durch:
 
@@ -60,7 +60,7 @@ Deutschland
 
 Tel.: +49 9131 85 26600  
 Fax:  +49 9131 85 22188  
-E-Mail: praesident@fau.de
+E-Mail: [praesident@fau.de](mailto:praesident@fau.de)
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 132507686
 
@@ -84,7 +84,7 @@ Deutschland
 
 Tel.: +49 371 531 10000  
 Fax: +49 371 531 10009  
-E-Mail: rektor@tu-chemnitz.de
+E-Mail: [rektor@tu-chemnitz.de](mailto:rektor@tu-chemnitz.de)
 
 Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 140857609
 
@@ -102,7 +102,7 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   
   Tel.: +49 921 55 7705  
   Fax:  +49 921 55 7702  
-  E-Mail: korch@uni-bayreuth.de
+  E-Mail: [korch@uni-bayreuth.de](mailto:korch@uni-bayreuth.de)
 * Prof. Dr. Gerhard Wellein  
   Friedrich-Alexander-Universität Erlangen-Nürnberg  
   Technische Fakultät  
@@ -113,7 +113,7 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   
   Tel.: +49 9131 85 28136  
   Fax:  +49 9131 302941  
-  E-Mail: gerhard.wellein@rrze.uni-erlangen.de
+  E-Mail: [gerhard.wellein@rrze.uni-erlangen.de](mailto:gerhard.wellein@rrze.uni-erlangen.de)
 * Prof. Dr. Gudula Rünger  
   Technische Universität Chemnitz  
   Fakultät für Informatik  
@@ -123,7 +123,7 @@ Aufsichtsbehörde: Sächsisches Staatsministerium für Wissenschaft und Kunst
   
   Tel.: +49 371 531 25610  
   Fax:  +49 371 531 25619  
-  E-Mail: ruenger@informatik.tu-chemnitz.de
+  E-Mail: [ruenger@informatik.tu-chemnitz.de](mailto:ruenger@informatik.tu-chemnitz.de)
 
 ## Erklärung zur Erhebung und Verwendung personenbezogener Daten gemäß §13 TMG
 
