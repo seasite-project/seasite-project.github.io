@@ -1,8 +1,8 @@
 # Impressum und Datenschutz
 
-## Anbieterkennzeichnung gemäß §5 TMG
+Dies ist ein gemeinsamer Webauftritt der Partner des BMBF-Projekts SeASiTE.
 
-Dies ist ein gemeinsamer Webauftritt der Partner des BMBF-Projekts SeASiTE:
+## Anbieterkennzeichnung gemäß §5 TMG
 
 ### Universität Bayreuth
 
@@ -125,4 +125,9 @@ Tel.: +49 371 531-25610
 Fax:  +49 371 531-25619  
 E-Mail: ruenger@informatik.tu-chemnitz.de
 
+## Erklärung zur Erhebung und Verwendung personenbezogener Daten gemäß §13 TMG
+
+Von den Erstellern und Autoren dieses Webauftritts werden keine personenbezogener Daten erhoben oder verwendet, auch nicht beispielsweise zu statistischen Zwecken.
+
+Es ist jedoch technisch möglich, dass die Anbieter der technischen Infrastruktur, die dieser Webauftritt nutzt, personenbezogene Daten erheben und verwenden. Für das Hosting der Seite wird der Dienst [GitHub Pages](https://pages.github.com/) genutzt, der auch die URL [seasite-project.github.io](https://seasite-project.github.io) zur Verfügung stellt. Die Domain [seasite-project.de](http://www.seasite-project.de) und die Weiterleitung auf die GitHub-URL wird vom Anbieter [STRATO](https://www.strato.de) bereitgestellt. Für Informationen zur Politik dieser Dienste bzw. Unternehmen im Umgang mit personenbezogener Daten sei auf deren jeweilige Erklärungen verwiesen.
 
