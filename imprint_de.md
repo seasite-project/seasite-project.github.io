@@ -11,18 +11,20 @@ Dies ist ein gemeinsamer Webauftritt der Partner des BMBF-Projekts SeASiTE:
 Der Präsident der Universität Bayreuth  
 Herrn Professor Dr. Stefan Leible  
 Universitätsstraße 30  
-95447 Bayreuth
+95447 Bayreuth  
+Deutschland
 
 Der Kanzler der Universität Bayreuth  
 Herrn Dr. Markus Zanner  
 Universitätsstraße 30  
-95447 Bayreuth
+95447 Bayreuth  
+Deutschland
 
 #### Kontakt
 
-Tel.: 0921 / 55-0  
-Fax: 0921 / 55-5290  
-E-Mail:info@uni-bayreuth.de
+Tel.: +49 921 55-0  
+Fax:  +49 921 55-5290  
+E-Mail: info@uni-bayreuth.de
 
 #### Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz
 
@@ -38,13 +40,14 @@ Bayerisches Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst
 
 Der Präsident der Friedrich-Alexander-Universität Erlangen-Nürnberg  
 Prof. Dr. Joachim Hornegger  
-Schlossplatz 4, 91054 Erlangen  
-Postadresse: Postfach 3520, 91023 Erlangen
+Schlossplatz 4
+91054 Erlangen  
+Deutschland
 
 #### Kontakt
 
-Tel.: +49 (0)9131/85-0  
-Fax: +49 (0)9131/85-22131  
+Tel.: +49 9131 85-0  
+Fax:  +49 9131 85-22131  
 E-Mail: poststelle@fau.de
 
 #### Umsatzsteueridentifikationsnummer gemäß §27a Umsatzsteuergesetz
@@ -88,10 +91,11 @@ Universität Bayreuth
 Fakultät für Mathematik, Physik und Informatik  
 Lehstuhl Angewandte Informatik II  
 Universitätsstraße 30  
-95447 Bayreuth
+95447 Bayreuth  
+Deutschland
 
-Tel.: +49 921 / 55-7705  
-Fax: +49 921 / 55-7702  
+Tel.: +49 921 55-7705  
+Fax:  +49 921 55-7702  
 E-Mail: korch@uni-bayreuth.de
 
 ### Friedrich-Alexander-Universität Erlangen-Nürnberg
@@ -101,10 +105,11 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg
 Technische Fakultät  
 Department Informatik  
 Martensstraße 1  
-91058 Erlangen
+91058 Erlangen  
+Deutschland
 
-Tel.: +49 9131 / 85 28136  
-Fax: +49 9131 / 302941  
+Tel.: +49 9131 85 28136  
+Fax:  +49 9131 302941  
 E-Mail: gerhard.wellein@rrze.uni-erlangen.de
 
 ### Technische Universität Chemnitz
@@ -113,10 +118,11 @@ Prof. Dr. Gudula Rünger
 Technische Universität Chemnitz  
 Fakultät für Informatik  
 Professur Praktische Informatik  
-09107 Chemnitz
+09107 Chemnitz  
+Deutschland
 
-Te.: 0371 531-25610  
-Fax: 0371 531-25619  
+Tel.: +49 371 531-25610  
+Fax:  +49 371 531-25619  
 E-Mail: ruenger@informatik.tu-chemnitz.de
 
 
