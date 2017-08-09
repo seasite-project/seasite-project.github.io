@@ -1,6 +1,6 @@
 # Impressum und Datenschutz
 
-Dies ist ein gemeinsamer Webauftritt der Partner des BMBF-Projekts SeASiTE.
+Dies ist ein gemeinsamer Webauftritt der Zuwendungsempfänger des BMBF-Projekts SeASiTE.
 
 ## Anbieterkennzeichnung gemäß §5 TMG
 
