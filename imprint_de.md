@@ -14,7 +14,7 @@ Tel.: +49 921 55 0
 Fax:  +49 921 55 5290  
 E-Mail: [info@uni-bayreuth.de](mailto:info@uni-bayreuth.de)
 
-Die Universität Bayreuth ist eine Körperschaft öffentlichen Rechts und zugleich eine staatliche Einrichtung und wird vertreten durch:
+Die Universität Bayreuth ist eine Körperschaft öffentlichen Rechts und zugleich eine staatliche Einrichtung. Sie wird vertreten durch:
 
 Der Präsident der Universität Bayreuth  
 Prof. Dr. Stefan Leible  
@@ -50,7 +50,7 @@ Tel.: +49 9131 85 0
 Fax:  +49 9131 85 22131  
 E-Mail: [poststelle@fau.de](mailto:poststelle@fau.de)
 
-Die Friedrich-Alexander-Universität Erlangen-Nürnberg ist eine Körperschaft öffentlichen Rechts und zugleich eine staatliche Einrichtung und wird vertreten durch:
+Die Friedrich-Alexander-Universität Erlangen-Nürnberg ist eine Körperschaft öffentlichen Rechts und zugleich eine staatliche Einrichtung. Sie wird vertreten durch:
 
 Der Präsident der Friedrich-Alexander-Universität Erlangen-Nürnberg  
 Prof. Dr. Joachim Hornegger  
@@ -74,7 +74,7 @@ Deutschland
 
 Tel.: +49 371 531 0
 
-Die Technsiche Universität Chemnitz ist eine Körperschaft öffentlichen Rechts und wird vertreten durch:
+Die Technsiche Universität Chemnitz ist eine Körperschaft öffentlichen Rechts. Sie wird vertreten durch:
 
 Der Rektor der Technischen Universität Chemnitz  
 Prof. Dr. Gerd Strohmeier  
