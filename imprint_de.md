@@ -1,3 +1,7 @@
+---
+redirect_to: "http://www.ai2.uni-bayreuth.de/de/research/projects/seasite/"
+---
+
 # Impressum und Erklärung zur Datenverarbeitung
 
 Dies ist ein gemeinsamer Webauftritt der Zuwendungsempfänger des BMBF-Projekts SeASiTE.
