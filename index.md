@@ -1,3 +1,7 @@
+---
+redirect_to: "http://www.ai2.uni-bayreuth.de/de/research/projects/seasite/"
+---
+
 _Sprache: :uk: [Englisch](index_en.md), :de: [Deutsch](index.md)_
 
 # Selbstadaption für zeitschrittbasierte Simulationstechniken auf heterogenen HPC-Systemen
