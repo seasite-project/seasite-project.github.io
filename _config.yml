@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: SeASiTe
 gems:
   - jemoji
+  - jekyll-redirect-from
