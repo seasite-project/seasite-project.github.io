@@ -1,5 +1,5 @@
 ---
-redirect_to: "http://www.ai2.uni-bayreuth.de/en/research/projects/seasite/"
+redirect_to: "http://www.ai2.uni-bayreuth.de/de/forschung/seasite/"
 ---
 
 _Language: :uk: [English](index_en.md), :de: [German](index.md)_
